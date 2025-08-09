@@ -3,6 +3,7 @@
     {
       "id": 1,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video1.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-1.png",
       "userId": 1,
       "reelInfo": {
         "likeInfo": {
@@ -45,6 +46,7 @@
     {
       "id": 2,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video2.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-2.png",
       "userId": 2,
       "reelInfo": {
         "likeInfo": {
@@ -87,6 +89,7 @@
     {
       "id": 3,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video3.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-3.png",
       "userId": 3,
       "reelInfo": {
         "likeInfo": {
@@ -120,6 +123,7 @@
     {
       "id": 4,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video4.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-4.png",
       "userId": 4,
       "reelInfo": {
         "likeInfo": {
@@ -162,6 +166,7 @@
     {
       "id": 5,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video5.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-5.png",
       "userId": 5,
       "reelInfo": {
         "likeInfo": {
@@ -195,6 +200,7 @@
     {
       "id": 6,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video6.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-2.png",
       "userId": 6,
       "reelInfo": {
         "likeInfo": {
@@ -237,6 +243,7 @@
     {
       "id": 7,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video7.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-3.png",
       "userId": 1,
       "reelInfo": {
         "likeInfo": {
@@ -270,6 +277,7 @@
     {
       "id": 8,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video8.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-6.png",
       "userId": 2,
       "reelInfo": {
         "likeInfo": {
@@ -312,6 +320,7 @@
     {
       "id": 9,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video9.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-7.png",
       "userId": 3,
       "reelInfo": {
         "likeInfo": {
@@ -354,6 +363,7 @@
     {
       "id": 10,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video10.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-8.png",
       "userId": 4,
       "reelInfo": {
         "likeInfo": {
@@ -414,6 +424,7 @@
     {
       "id": 11,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video1.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-1.png",
       "userId": 1,
       "reelInfo": {
         "likeInfo": {
@@ -456,6 +467,7 @@
     {
       "id": 12,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video2.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-2.png",
       "userId": 2,
       "reelInfo": {
         "likeInfo": {
@@ -498,6 +510,7 @@
     {
       "id": 13,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video3.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-3.png",
       "userId": 3,
       "reelInfo": {
         "likeInfo": {
@@ -531,6 +544,7 @@
     {
       "id": 14,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video4.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-4.png",
       "userId": 4,
       "reelInfo": {
         "likeInfo": {
@@ -573,6 +587,7 @@
     {
       "id": 15,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video5.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-5.png",
       "userId": 5,
       "reelInfo": {
         "likeInfo": {
@@ -606,6 +621,7 @@
     {
       "id": 16,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video6.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-2.png",
       "userId": 6,
       "reelInfo": {
         "likeInfo": {
@@ -648,6 +664,7 @@
     {
       "id": 17,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video7.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-3.png",
       "userId": 1,
       "reelInfo": {
         "likeInfo": {
@@ -681,6 +698,7 @@
     {
       "id": 18,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video8.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-6.png",
       "userId": 2,
       "reelInfo": {
         "likeInfo": {
@@ -723,6 +741,7 @@
     {
       "id": 19,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video9.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-7.png",
       "userId": 3,
       "reelInfo": {
         "likeInfo": {
@@ -765,6 +784,7 @@
     {
       "id": 20,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video10.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-8.png",
       "userId": 4,
       "reelInfo": {
         "likeInfo": {
@@ -825,6 +845,7 @@
     {
       "id": 21,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video1.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-1.png",
       "userId": 1,
       "reelInfo": {
         "likeInfo": {
@@ -867,6 +888,7 @@
     {
       "id": 22,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video2.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-2.png",
       "userId": 2,
       "reelInfo": {
         "likeInfo": {
@@ -909,6 +931,7 @@
     {
       "id": 23,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video3.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-3.png",
       "userId": 3,
       "reelInfo": {
         "likeInfo": {
@@ -942,6 +965,7 @@
     {
       "id": 24,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video4.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-4.png",
       "userId": 4,
       "reelInfo": {
         "likeInfo": {
@@ -984,6 +1008,7 @@
     {
       "id": 25,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video5.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-5.png",
       "userId": 5,
       "reelInfo": {
         "likeInfo": {
@@ -1017,6 +1042,7 @@
     {
       "id": 26,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video6.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-2.png",
       "userId": 6,
       "reelInfo": {
         "likeInfo": {
@@ -1059,6 +1085,7 @@
     {
       "id": 27,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video7.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-3.png",
       "userId": 1,
       "reelInfo": {
         "likeInfo": {
@@ -1092,6 +1119,7 @@
     {
       "id": 28,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video8.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-6.png",
       "userId": 2,
       "reelInfo": {
         "likeInfo": {
@@ -1134,6 +1162,7 @@
     {
       "id": 29,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video9.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-7.png",
       "userId": 3,
       "reelInfo": {
         "likeInfo": {
@@ -1176,6 +1205,7 @@
     {
       "id": 30,
       "video": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/videos/video10.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/thumbnails/frame-8.png",
       "userId": 4,
       "reelInfo": {
         "likeInfo": {
