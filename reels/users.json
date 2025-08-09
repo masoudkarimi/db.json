@@ -3,32 +3,32 @@
     {
       "id": 1,
       "userName": "alex_adventure",
-      "profileLink": "https://github.com/masoudkarimi/db.json/blob/main/reels/profiles/user1.jpg"
+      "profileLink": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/profiles/user1.jpg"
     },
     {
       "id": 2,
       "userName": "maya_creative",
-      "profileLink": "https://github.com/masoudkarimi/db.json/blob/main/reels/profiles/user2.jpg"
+      "profileLink": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/profiles/user2.jpg"
     },
     {
       "id": 3,
       "userName": "sam_tech",
-      "profileLink": "https://github.com/masoudkarimi/db.json/blob/main/reels/profiles/user3.jpg"
+      "profileLink": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/profiles/user3.jpg"
     },
     {
       "id": 4,
       "userName": "jordan_travel",
-      "profileLink": "https://github.com/masoudkarimi/db.json/blob/main/reels/profiles/user4.jpg"
+      "profileLink": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/profiles/user4.jpg"
     },
     {
       "id": 5,
       "userName": "taylor_fitness",
-      "profileLink": "https://github.com/masoudkarimi/db.json/blob/main/reels/profiles/user5.jpg"
+      "profileLink": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/profiles/user5.jpg"
     },
     {
       "id": 6,
       "userName": "casey_foodie",
-      "profileLink": "https://github.com/masoudkarimi/db.json/blob/main/reels/profiles/user6.jpg"
+      "profileLink": "https://raw.githubusercontent.com/masoudkarimi/db.json/refs/heads/main/reels/profiles/user6.jpg"
     }
   ]
 }
